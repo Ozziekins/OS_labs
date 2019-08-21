@@ -1,0 +1,1000 @@
+  154  ls
+  155  cd Documents/
+  156  ls
+  157  cd Second\ Semester/
+  158  ls
+  159  cd IntroductiontoProgrammingII/
+  160  ls
+  161  cd C\ Programming/
+  162  ls
+  163  gcc comp.c
+  164  ./a.out
+  165  gcc comp.c
+  166  gcc -o comp comp.c
+  167  comp
+  168  gcc comp.c
+  169  gcc mycomp comp.c
+  170  gcc comp.c
+  171  gcc -o mycomp comp.c
+  172  mycomp
+  173  gcc comp.c
+  174  ./a.out
+  175  gcc comp.c
+  176  gcc comp.c -o comp
+  177  ./comp
+  178  gcc comp.c -o comp
+  179  ./comp
+  180  ls
+  181  cd Doc
+  182  cd Documents/
+  183  ls
+  184  cd Second\ Semester/
+  185  ls
+  186  cd IntroductiontoProgrammingII/
+  187  ls
+  188  cd C\ Programming/
+  189  ls
+  190  gcc lab5.c
+  191  ls
+  192  cd Desktop/
+  193  ls
+  194  exit
+  195  ls
+  196  cd Desktop/
+  197  ls
+  198  cd Doc
+  199  ../
+  200  cd .../
+  201  cd -
+  202  ls
+  203  cd Documents/
+  204  ls
+  205  cd Second\ Semester/
+  206  ls
+  207  cd IntroductiontoProgrammingII/
+  208  ls
+  209  cd C\ Programming/
+  210  ls
+  211  gcc lab5.c
+  212  add-apt-repository ppa:webupd8team/java
+  213  ls
+  214  cd Downloads/
+  215  ls
+  216  sudo tar xvzf CLion-2018.3.4.tar.gz -C /opt/
+  217  sh /opt/clion-2018.3.4/bin/clion.sh
+  218  sudo apt install g++
+  219  sudo apt build-essential
+  220  sudo apt install build-essential
+  221  g++ --version
+  222  sudo apt install gcc
+  223  sudo apt install build-essential
+  224  gcc --version
+  225  -cd
+  226  cd -
+  227  sudo apt update
+  228  sudo apt upgrade
+  229  sudo reboot
+  230  ls
+  231  cd Documents/
+  232  ls
+  233  cd Second\ Semester/
+  234  ls
+  235  cd IntroductiontoProgrammingII/
+  236  ls
+  237  cd C\ Programming/
+  238  ls
+  239  gcc exercize.c
+  240  gcc ex exercize.c
+  241  gcc -o ex exercize.c
+  242  ex
+  243  ls
+  244  gcc arg.c
+  245  gcc -o a arg.c
+  246  a good girl
+  247  a
+  248  gcc arr arg.c
+  249  gcc -o arr arg.c
+  250  arr hi
+  251  ls
+  252  gcc arg.c
+  253  ls
+  254  ./a.out argu ment
+  255  ./a.out argument
+  256  ./a.out
+  257  ./a.out 'argu ment of me is n bla'
+  258  gcc read.c
+  259  gcc -o r read.c
+  260  r
+  261  ./a.out
+  262  gcc read.c
+  263  ./a.out
+  264  gcc read.c
+  265  ./a.out
+  266  gcc read.c
+  267  ./a.out
+  268  gcc read.c
+  269  ./a.out
+  270  gcc read.c
+  271  ./a.out
+  272  gcc read.c
+  273  ./a.out
+  274  gcc read.c
+  275  ./a.out
+  276  ..cd
+  277  cd ~
+  278  ~cd
+  279  ls
+  280  cd Documents/
+  281  ls
+  282  cd Second\ Semester/
+  283  ls
+  284  cd IntroductiontoProgrammingII/
+  285  ls
+  286  cd C\ Programming/
+  287  ls
+  288  gcc la5.c
+  289  gcc lab5.c
+  290  ./a.out
+  291  ls
+  292  gcc encrypt.c
+  293  ./a.out
+  294  gcc birthday.c
+  295  ./a.out
+  296  gcc malloc.c
+  297  ./a.out
+  298  gcc malloc.c
+  299  ./a.out
+  300  gcc malloc.c
+  301  ./a.out
+  302  gcc malloc.c
+  303  ./a.out
+  304  gcc malloc.c
+  305  ./a.out
+  306  gcc malloc.c
+  307  ./a.out
+  308  gcc malloc.c
+  309  ./a.out
+  310  gcc malloc.c
+  311  ./a.out
+  312  ld
+  313  ls
+  314  cd Documents/
+  315  ls
+  316  cd Second\ Semester/
+  317  ls
+  318  cd IntroductiontoProgrammingII/
+  319  ls
+  320  cd C\ Programming/
+  321  ls
+  322  gcc prak.c
+  323  ./a.out
+  324  gcc prak.c
+  325  ./a.out
+  326  sudo apt update
+  327  sudo apt install unrar
+  328  sudo apt upgrade
+  329  sudo snap install paintsupreme-3d
+  330  exit
+  331  ls
+  332  cd Documents/
+  333  ls
+  334  cd Second\ Semester/
+  335  ls
+  336  cd IntroductiontoProgrammingII/
+  337  ls
+  338  cd C\ Programming/
+  339  ls
+  340  gcc OziomaOkonicha.c
+  341  ls
+  342  gcc OziomaOkonicha.c
+  343  ./a.out
+  344  gcc OziomaOkonicha.c
+  345  ./a.out
+  346  gcc OziomaOkonicha.c
+  347  ./a.out
+  348  gcc OziomaOkonicha.c
+  349  ./a.out
+  350  gcc OziomaOkonicha.c
+  351  ./a.out
+  352  gcc OziomaOkonicha.c
+  353  ./a.out
+  354  gcc OziomaOkonicha.c
+  355  ./a.out
+  356  gcc OziomaOkonicha.c
+  357  ./a.out
+  358  gcc OziomaOkonicha.c
+  359  ./a.out
+  360  gcc OziomaOkonicha.c
+  361  ./a.out
+  362  gcc OziomaOkonicha.c
+  363  ./a.out
+  364  gcc OziomaOkonicha.c
+  365  ./a.out
+  366  gcc OziomaOkonicha.c
+  367  ./a.out
+  368  gcc OziomaOkonicha.c
+  369  ./a.out
+  370  gcc OziomaOkonicha.c
+  371  ./a.out
+  372  gcc OziomaOkonicha.c
+  373  ./a.out
+  374  gcc OziomaOkonicha.c
+  375  ./a.out
+  376  gcc OziomaOkonicha.c
+  377  ./a.out
+  378  gcc OziomaOkonicha.c
+  379  ./a.out
+  380  gcc OziomaOkonicha.c
+  381  ./a.out
+  382  gcc OziomaOkonicha.c
+  383  ./a.out
+  384  gcc OziomaOkonicha.c
+  385  ./a.out
+  386  gcc jemina.c
+  387  ./a.out
+  388  ls
+  389  cd Documents/
+  390  ls
+  391  cd Second\ Semester/
+  392  ls
+  393  cd IntroductiontoProgrammingII/
+  394  ls
+  395  cd C
+  396  cd C\ Programming/
+  397  ls
+  398  gcc OziomaOkonicha.c
+  399  ./a.out
+  400  gcc OziomaOkonicha.c
+  401  ./a.out
+  402  gcc OziomaOkonicha.c
+  403  ./a.out
+  404  gcc OziomaOkonicha.c
+  405  ./a.out
+  406  gcc OziomaOkonicha.c
+  407  ./a.out
+  408  gcc OziomaOkonicha.c
+  409  ./a.out
+  410  gcc OziomaOkonicha.c
+  411  ./a.out
+  412  gcc OziomaOkonicha.c
+  413  ./a.out
+  414  gcc OziomaOkonicha.c
+  415  ./a.out
+  416  gcc OziomaOkonicha.c
+  417  ./a.out
+  418  ls
+  419  cd Documents/
+  420  ls
+  421  cd Second\ Semester/
+  422  ls
+  423  cd IntroductiontoProgrammingII/
+  424  ls
+  425  cd C\ Programming/
+  426  ls
+  427  gcc OziomaOkonicha.c
+  428  ./a.out
+  429  gcc OziomaOkonicha.c
+  430  ./a.out
+  431  gcc OziomaOkonicha.c
+  432  ./a.out
+  433  gcc OziomaOkonicha.c
+  434  ./a.out
+  435  gcc OziomaOkonicha.c
+  436  ./a.out
+  437  gcc OziomaOkonicha.c
+  438  ./a.out
+  439  gcc OziomaOkonicha.c
+  440  ./a.out
+  441  gcc OziomaOkonicha.c
+  442  ./a.out
+  443  gcc OziomaOkonicha.c
+  444  ./a.out
+  445  gcc OziomaOkonicha.c
+  446  ./a.out
+  447  gcc OziomaOkonicha.c
+  448  ./a.out
+  449  gcc OziomaOkonicha.c
+  450  ./a.out
+  451  gcc OziomaOkonicha.c
+  452  ./a.out
+  453  gcc OziomaOkonicha.c
+  454  ./a.out
+  455  gcc OziomaOkonicha.c
+  456  ./a.out
+  457  gcc OziomaOkonicha.c
+  458  ./a.out
+  459  gcc OziomaOkonicha.c
+  460  ./a.out
+  461  gcc OziomaOkonicha.c
+  462  ./a.out
+  463  gcc OziomaOkonicha.c
+  464  ./a.out
+  465  gcc OziomaOkonicha.c
+  466  ./a.out
+  467  gcc OziomaOkonicha.c
+  468  ./a.out
+  469  gcc OziomaOkonicha.c
+  470  ./a.out
+  471  gcc OziomaOkonicha.c
+  472  ./a.out
+  473  gcc OziomaOkonicha.c
+  474  ./a.out
+  475  gcc OziomaOkonicha.c
+  476  ./a.out
+  477  gcc OziomaOkonicha.c
+  478  ./a.out
+  479  gcc OziomaOkonicha.c
+  480  ./a.out
+  481  gcc OziomaOkonicha.c
+  482  ./a.out
+  483  gcc OziomaOkonicha.c
+  484  ./a.out
+  485  gcc OziomaOkonicha.c
+  486  ./a.out
+  487  gcc OziomaOkonicha.c
+  488  ./a.out
+  489  gcc OziomaOkonicha.c
+  490  ./a.out
+  491  gcc OziomaOkonicha.c
+  492  ./a.out
+  493  gcc OziomaOkonicha.c && ./a.out
+  494  ls
+  495  cd Desktop/
+  496  cd-
+  497  -cd
+  498  cd -
+  499  ls
+  500  cd Documents/
+  501  ls
+  502  cd Second\ Semester/
+  503  ls
+  504  cd IntroductiontoProgrammingII/
+  505  ls
+  506  cd C\ Programming/
+  507  ls
+  508  gcc OziomaOkonicha.c
+  509  gcc dijk.c
+  510  ./a.out
+  511  gcc dijk.c
+  512  ./a.out
+  513  gcc dijk.c
+  514  ./a.out
+  515  gcc use.c
+  516  gcc dijk.c
+  517  ./a.out
+  518  gcc dijk.c
+  519  ./a.out
+  520  gcc dijk.c
+  521  ./a.out
+  522  gcc dijk.c
+  523  ./a.out
+  524  gcc use.c
+  525  ./a.out
+  526  gcc OziomaOkonicha.c
+  527  ./a.out
+  528  gcc OziomaOkonicha.c
+  529  ./a.out
+  530  gcc OziomaOkonicha.c
+  531  ./a.out
+  532  gcc OziomaOkonicha.c
+  533  ./a.out
+  534  gcc OziomaOkonicha.c
+  535  ./a.out
+  536  gcc OziomaOkonicha.c
+  537  ./a.out
+  538  gcc OziomaOkonicha.c
+  539  ./a.out
+  540  gcc OziomaOkonicha.c
+  541  ./a.out
+  542  gcc OziomaOkonicha.c
+  543  ./a.out
+  544  gcc OziomaOkonicha.c
+  545  ./a.out
+  546  gcc OziomaOkonicha.c
+  547  ./a.out
+  548  gcc OziomaOkonicha.c
+  549  ./a.out
+  550  gcc OziomaOkonicha.c
+  551  ./a.out
+  552  gcc OziomaOkonicha.c
+  553  ./a.out
+  554  gcc OziomaOkonicha.c
+  555  ./a.out
+  556  gcc OziomaOkonicha.c
+  557  ./a.out
+  558  gcc OziomaOkonicha.c
+  559  ./a.out
+  560  gcc OziomaOkonicha.c
+  561  ./a.out
+  562  gcc OziomaOkonicha.c
+  563  ./a.out
+  564  gcc OziomaOkonicha.c
+  565  ./a.out
+  566  gcc OziomaOkonicha.c
+  567  ./a.out
+  568  gcc OziomaOkonicha.c
+  569  ./a.out
+  570  ls
+  571  cd Documents/
+  572  ls
+  573  cd Second\ Semester/
+  574  ls
+  575  cd IntroductiontoProgrammingII/
+  576  ls
+  577  cd C\ Programming/
+  578  ls
+  579  gcc OziomaOkonicha.c && ./a.out
+  580  ls
+  581  cd Documents/
+  582  ls
+  583  cd Second\ Semester/
+  584  ls
+  585  cd IntroductiontoProgrammingII/
+  586  ls
+  587  cd C\ Programming/
+  588  ls
+  589  gcc OziomaOkonicha.c && ./a.out
+  590  ls
+  591  cd Documents/
+  592  ls
+  593  cd Second\ Semester/
+  594  ls
+  595  cd IntroductiontoProgrammingII/
+  596  ls
+  597  cd C\ Programming/
+  598  ls
+  599  gcc OziomaOkonicha.c && ./a.out
+  600  gcc trial.c && ./a.out
+  601  exit
+  602  ls
+  603  cd DOc
+  604  cd Documents/
+  605  ls
+  606  cd Second\ Semester/
+  607  ls
+  608  cd IntroductiontoProgrammingII/
+  609  ls
+  610  cd C\ Programming/
+  611  ls
+  612  ld
+  613  cd Documents/
+  614  ls
+  615  cd Second\ Semester/
+  616  ls
+  617  cd IntroductiontoProgrammingII/
+  618  ls
+  619  cd C\ Programming/
+  620  ls
+  621  cd Documents/
+  622  ls
+  623  cd Second\ Semester/
+  624  ls
+  625  cd IntroductiontoProgrammingII/
+  626  ls
+  627  cd C\ Programming/
+  628  ls
+  629  gcc trial.c && ./a.out
+  630  ls
+  631  cd Documents/
+  632  ls
+  633  cd Second\ Semester/
+  634  ls
+  635  cd IntroductiontoProgrammingII/
+  636  ls
+  637  cd C\ Programming/
+  638  ls
+  639  gcc lab7.c && ./a.out
+  640  ls
+  641  cdDoc
+  642  ls
+  643  cd Documents/
+  644  ls
+  645  cd Second\ Semester/
+  646  ls
+  647  cd IntroductiontoProgrammingII/
+  648  ls
+  649  cd C\ Programming/
+  650  ls
+  651  gcc trial.c && ./a.out
+  652  gcc OziomaOkonicha.c && ./a.out
+  653  exit
+  654  ls
+  655  cd Documents/
+  656  ls
+  657  cd Second\ Semester/
+  658  ls
+  659  cd IntroductiontoProgrammingII/
+  660  ls
+  661  cd C\ Programming/
+  662  ls
+  663  cd Documents/
+  664  ls
+  665  cd Second\ Semester/
+  666  ls
+  667  cd IntroductiontoProgrammingII/
+  668  ls
+  669  cd C\ Programming/
+  670  ls
+  671  cd Documents/
+  672  ls
+  673  cd Second\ Semester/
+  674  ls
+  675  cd IntroductiontoProgrammingII/
+  676  ls
+  677  cd C\ Programming/
+  678  ls
+  679  gcc use.c && ./a.out
+  680  gcc use.c
+  681  ./a.out
+  682  gcc use.c && ./a.out
+  683  clear
+  684  exit
+  685  ls
+  686  cd Documents/
+  687  ls
+  688  cd Second\ Semester/
+  689  ls
+  690  cd I
+  691  LS
+  692  cd IntroductiontoProgrammingII/
+  693  ls
+  694  cd C
+  695  cd C\ Programming/
+  696  ls
+  697  gcc OziomaOkonicha.c
+  698  ./a.out
+  699  gcc OziomaOkonicha.c && ./a.out
+  700  gcc dan.c %%./a.out
+  701  gcc dan.c && ./a.out
+  702  gcc OziomaOkonicha.c && ./a.out
+  703  clear
+  704  apt-get install zip
+  705  gcc use.c && ./a.out
+  706  ls
+  707  cd Documents/
+  708  ls
+  709  cd Second\ Semester/
+  710  ls
+  711  cd IntroductiontoProgrammingII/
+  712  ls
+  713  cd C\ Programming/
+  714  ls
+  715  gcc use.c && ./a.out
+  716  ls
+  717  cd Documents/
+  718  ls
+  719  cd Second\ Semester/
+  720  ls
+  721  cd IntroductiontoProgrammingII/
+  722  ls
+  723  cd C\ Programming/
+  724  ls
+  725  gcc use.c && ./a.out
+  726  ls
+  727  cd Documents/
+  728  ls
+  729  cd Second\ Semester/
+  730  ls
+  731  cd IntroductiontoProgrammingII/
+  732  ls
+  733  cd C\ Programming/
+  734  ls
+  735  cd Documents/
+  736  ls
+  737  cd Second\ Semester/
+  738  ls
+  739  cd IntroductiontoProgrammingII/
+  740  ls
+  741  cd C\ Programming/
+  742  ls
+  743  gcc lab8.c && ./a.out
+  744  gcc lab8.c
+  745  ./a.out
+  746  gcc lab8.c
+  747  ./a.out
+  748  gcc lab8.c
+  749  ./a.out
+  750  gcc lab8.c
+  751  ./a.out
+  752  gcc lab8.c
+  753  ./a.out
+  754  gcc lab8.c
+  755  ./a.out
+  756  gcc lab8.c
+  757  ./a.out
+  758  gcc lab8.c
+  759  ./a.out
+  760  gcc lab8.c
+  761  ./a.out
+  762  gcc lab8.c
+  763  ./a.out
+  764  gcc lab8.c
+  765  ./a.out
+  766  gcc lab8.c
+  767  ./a.out
+  768  gcc lab8.c
+  769  ./a.out
+  770  gcc lab8.c
+  771  ./a.out
+  772  gcc lab8.c
+  773  ./a.out
+  774  gcc lab8.c
+  775  ./a.out
+  776  gcc lab8.c
+  777  ./a.out
+  778  gcc lab8.c
+  779  ./a.out
+  780  ls
+  781  cd Documents/
+  782  ls
+  783  cd Second\ Semester/
+  784  ls
+  785  cd IntroductiontoProgrammingII/
+  786  ls
+  787  cd C\ Programming/
+  788  ls
+  789  gcc lab8.c && ./a.out
+  790  ls
+  791  cd Documents/
+  792  ls
+  793  cd Second\ Semester/
+  794  ls
+  795  cd IntroductiontoProgrammingII/
+  796  ls
+  797  cd C\ Programming/
+  798  ls
+  799  gcc lab9.c && ./a.out
+  800  ls
+  801  cd Documents/
+  802  ;s
+  803  ls
+  804  cd Second\ Semester/
+  805  ls
+  806  cd I
+  807  LS
+  808  cd IntroductiontoProgrammingII/
+  809  ls
+  810  cd C\ Programming/
+  811  ls
+  812  exit
+  813  ls
+  814  cd Documents/
+  815  ls
+  816  cd Second\ Semester/
+  817  ls
+  818  cd IntroductiontoProgrammingII/
+  819  ls
+  820  cd C\ Programming/
+  821  ls
+  822  clear
+  823  exit
+  824  ls
+  825  cd Documents/
+  826  ls
+  827  cd Second\ Semester/
+  828  ls
+  829  cd IntroductiontoProgrammingII/
+  830  ls
+  831  cd C\ Programming/
+  832  ls
+  833  exit
+  834  ls
+  835  cd Documents/
+  836  ls
+  837  cd Second\ Semester/
+  838  ls
+  839  cd IntroductiontoProgrammingII/
+  840  ls
+  841  cd C\ Programming/
+  842  ls
+  843  gcc thread.c -lpthread && ./a.out 
+  844  clear
+  845  gcc pc_thread.c -lpthread && ./a.out 
+  846  gcc prod_cons.c -lpthread && ./a.out
+  847  exit
+  848  ls
+  849  cd Documents/
+  850  ls
+  851  cd Second\ Semester/
+  852  ls
+  853  cd IntroductiontoProgrammingII/
+  854  ls
+  855  cd C\ Programming/
+  856  ls
+  857  gcc prod_cons.c -lpthread && ./a.out
+  858  exit
+  859  man pthread_create
+  860  man printf
+  861  man pthread_create
+  862  man main
+  863  man rreopen
+  864  man freopen
+  865  clear
+  866  exit
+  867  man sprintf
+  868  man vfwscanf
+  869  sudo apt update
+  870  sudo apt upgrade
+  871  exit
+  872  sudo apt update
+  873  java -version
+  874  apt install default-jre
+  875  sudo apt install default-jre
+  876  java -version
+  877  javac -version
+  878  sudo apt install default-jdk
+  879  javac -version
+  880  ls
+  881  cd Documents/
+  882  ls
+  883  cd Second\ Semester/
+  884  ls
+  885  mkdir MyJavaDirectory
+  886  cd MyJavaDirectory
+  887  javac heap.java && java heap
+  888  sudo apt install default-jdk
+  889  javac -version
+  890  javac heap.java && java heap
+  891  javac heap.java
+  892  java heap
+  893  ls
+  894  java MyFirstProgram.class
+  895  java heap
+  896  javac heap.java
+  897  java heap
+  898  javac heap.java
+  899  java heap
+  900  clear
+  901  exit
+  902  ls
+  903  cd Documents/
+  904  ls
+  905  cd Second\ Semester/
+  906  ls
+  907  cd IntroductiontoProgrammingII/
+  908  ls
+  909  cd C\ Programming/
+  910  ls
+  911  gcc trial.c
+  912  gcc trial.c && ./a.out
+  913  gcc cryt 
+  914  gcc cryto. && c 
+  915  gcc tr
+  916  gcc heap.c && ./a.out
+  917  gcc crypro.c && ./a.out
+  918  gcc crypto.c && ./a.out
+  919  gcc crypro.c && ./a.out
+  920  gcc crypto.c && ./a.out
+  921  exit
+  922  clear
+  923  exit
+  924  man gcc
+  925  exit
+  926  ls
+  927  cd Documents/
+  928  ls
+  929  cd Second\ Semester/
+  930  ls
+  931  cd IntroductiontoProgrammingII/
+  932  ls
+  933  cd C\ Programming/
+  934  ls
+  935  gcc crypto.c
+  936  gcc BitwiseOperations.c
+  937  ./a.out
+  938  exit
+  939  ls
+  940  cd Documents/
+  941  ls
+  942  cd Second\ Semester/
+  943  ls
+  944  cd MyJavaDirectory/
+  945  ls
+  946  sudo apt install valgrind
+  947  valgrind
+  948  exit
+  949  sudo apt install valgrind
+  950  exit
+  951  ls
+  952  cd Documents/
+  953  ls
+  954  cd Second\ Semester/
+  955  ls
+  956  cd IntroductiontoProgrammingII/
+  957  ls
+  958  cd C\ Programming/
+  959  ls
+  960  gcc -o final.c && ./a.out
+  961  gcc -o final.c
+  962  gcc final.c
+  963  gcc final.c && ./a.out
+  964  gcc ziad.c && ./a.out
+  965  gcc final.c && ./a.out
+  966  gcc ziad.c && ./a.out
+  967  gcc final.c && ./a.out
+  968  gcc ziad.c && ./a.out
+  969  ls
+  970  gcc -o ziad.c ziad.o &&
+  971  gcc -o ziad.c ziad
+  972  gcc -o ziad.c
+  973  gcc ziad.c
+  974  ls
+  975  gcc -o doit.c
+  976  gcc doit.c -o doit.o
+  977  gcc -c doit.c -o doit
+  978  ls
+  979  cat doit
+  980  gcc -S doit
+  981  gcc -S a.out
+  982  ls
+  983  gcc ziad.c && ./a.out
+  984  gcc ziad.c -E
+  985  gcc ziad.c -E > out.c
+  986  gcc ziad.c && ./a.out
+  987  gcc ziad.c -E > 
+  988  gcc ziad.c && ./a.out
+  989  gcc ziad.c
+  990  gcc ziad.c && ./a.out
+  991  gcc ziad.c -E
+  992  gcc ziad.c && ./a.out
+  993  gcc ziad.c -E
+  994  gcc ziad.c -lm && ./a.out
+  995  gcc ziad.c -small lm && ./a.out
+  996  gcc ziad.c -lm && ./a.out
+  997  gcc ziad.c && ./a.out
+  998  gcc ziad.c
+  999  gcc ziad.c && ./a.out
+ 1000  ls
+ 1001  cd Documents/
+ 1002  ls
+ 1003  cd Second\ Semester/
+ 1004  ls
+ 1005  cd IntroductiontoProgrammingII/
+ 1006  ls
+ 1007  cd C\ Programming/
+ 1008  ls
+ 1009  gcc ziad.c && ./a.out
+ 1010  clear
+ 1011  exit
+ 1012  sudo apt-get install texlive-full
+ 1013  sudo apt-get install texmaker
+ 1014  texmaker
+ 1015  exit
+ 1016  ls
+ 1017  cd Documents/
+ 1018  ls
+ 1019  cd Latex
+ 1020  ls
+ 1021  pdflatex intern.tex
+ 1022  latexmk -pdf intern.tex
+ 1023  sudo apt-get install texlive-latex-base
+ 1024  sudo apt-get install latexmk
+ 1025  pdflatex intern.tex
+ 1026  latexmk -pdf intern.tex
+ 1027  sudo apt-get update
+ 1028  sudo apt upgrade all
+ 1029  sudo apt upgrade
+ 1030  sudo snap install pycharm-community --classic
+ 1031  clear
+ 1032  exit
+ 1033  sudo apt-get install gnome tweaks
+ 1034  sudo apt-get install gnome-tweaks
+ 1035  gnome-tweaks
+ 1036  exit
+ 1037  sudo apt update
+ 1038  sudo apt install git
+ 1039  git --version
+ 1040  git config --global user.name "Ozziekins"
+ 1041  git config --global user.email "nenubariozioma@gmail.com"
+ 1042  exit
+ 1043  ls
+ 1044  cd Documents/
+ 1045  ls
+ 1046  cd 2nd\ year\ First\ Semester/
+ 1047  ls
+ 1048  cd Operating\ Systems/
+ 1049  ls
+ 1050  cd C\ part/
+ 1051  ls
+ 1052  gcc practice.c
+ 1053  ./a.out
+ 1054  gcc practice.c
+ 1055  ./a.out
+ 1056  gcc practice.c
+ 1057  ./a.out
+ 1058  gcc practice.c
+ 1059  ./a.out
+ 1060  gcc practice.c
+ 1061  ./a.out
+ 1062  exit
+ 1063  mkdir ~/week1
+ 1064  cd ~/week1
+ 1065  ls
+ 1066  ls > ex1.txt
+ 1067  exit
+ 1068  mkdir ~/week1
+ 1069  cd ~/week1
+ 1070  ls | gcc | sort -r | > ex1.txt
+ 1071  mkdir ~/week1
+ 1072  cd /usr/bin
+ 1073  ls gcc
+ 1074  ls
+ 1075  ls "gcc"
+ 1076  grep -nr <gcc>
+ 1077  grep -nr gcc
+ 1078  mkfir ~/week1
+ 1079  exit
+ 1080  mkdir ~/week1
+ 1081  cd /usr/bin
+ 1082  cd week1
+ 1083  cd /week1
+ 1084  cd ~/week1
+ 1085  touch ex1.txt
+ 1086  cd /usr/bin
+ 1087  ls > ex1.txt | sort -r | grep -nr gcc
+ 1088  ls > ex1.txt | sort -r
+ 1089  sort -r | grep -nr gcc
+ 1090  ls
+ 1091  ls exit
+ 1092  exit
+ 1093  close
+ 1094  exit
+ 1095  whoami
+ 1096  hostname
+ 1097  man whoami
+ 1098  man man
+ 1099  man --help
+ 1100  less
+ 1101  head
+ 1102  tail
+ 1103  man -h | head
+ 1104  man --help | tail
+ 1105  grep PATTERN /usr/bin
+ 1106  grep PATTERN gcc
+ 1107  pwd
+ 1108  ~
+ 1109  .
+ 1110  ..
+ 1111  cd ..
+ 1112  ls .
+ 1113  cd ~
+ 1114  jobs
+ 1115  ls
+ 1116  cd /usr/bin
+ 1117  ls
+ 1118  mkdir ~/week1
+ 1119  cd ~/week1
+ 1120  touch ex1.txt
+ 1121  cd /usr/bin
+ 1122  mkdir ~/week1
+ 1123  cd ~/week1
+ 1124  touch ex1.txt
+ 1125  sort -r | grep -r "gcc" /usr/bin
+ 1126  mkdir ~/week1
+ 1127  cd ~/week1
+ 1128  touch ex1.txt
+ 1129  /usr/bin | grep "gcc" | sort -r ~/week1/ex1.txt
+ 1130  /usr/bin | grep "gcc" | sort -r > ~/week1/ex1.txt
+ 1131  grep "gcc" /usr/bin | sort -r > ~/week1/ex1.txt
+ 1132  grep "gcc" -r /usr/bin | sort -r > ~/week1/ex1.txt
+ 1133  whoami
+ 1134  hostname
+ 1135  man whoami
+ 1136  man man
+ 1137  man --help
+ 1138  less
+ 1139  head
+ 1140  tail
+ 1141  man -h | head
+ 1142  man --help | tail
+ 1143  grep bug stdin
+ 1144  grep bug
+ 1145  pwd
+ 1146  ls
+ 1147  cd Documents/
+ 1148  cd ..
+ 1149  ls .
+ 1150  cd ~
+ 1151  cd ~/week1
+ 1152  touch ex2.txt
+ 1153  history > ex2.txt

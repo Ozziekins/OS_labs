@@ -1,0 +1,95 @@
+/usr/bin/valgrind:# For gcc >= 3.4 versions
+/usr/bin/valgrind:# For gcc < 3.4 versions
+/usr/bin/latexmk:                        # (as with 'gcc -MP').
+/usr/bin/h2xs:      my @styles = $Config{gccversion} ? qw(C++ C9X GNU) : qw(C++ C9X);
+/usr/bin/h2ph:# non-GCC?) C compilers, but gcc uses additional include directories.
+/usr/bin/h2ph:    my $from_gcc   = `LC_ALL=C $Config{cc} -v -E - < /dev/null 2>&1 | awk '/^#include/, /^End of search list/' | grep '^ '`;
+/usr/bin/h2ph:    length($from_gcc) ? (split(' ', $from_gcc), $Config{usrinc}) : ($Config{usrinc});
+/usr/bin/c99-gcc:# The following options are the same (as of gcc-3.3):
+/usr/bin/c99-gcc:exec gcc $extra_flag ${1+"$@"}
+/usr/bin/c89-gcc:# The following options are the same (as of gcc-2.95):
+/usr/bin/c89-gcc:exec gcc $extra_flag ${1+"$@"}
+/usr/bin/bashbug:CC="gcc"
+Binary file /usr/bin/zlib-flate matches
+Binary file /usr/bin/zipsplit matches
+Binary file /usr/bin/zipnote matches
+Binary file /usr/bin/zip matches
+Binary file /usr/bin/zipinfo matches
+Binary file /usr/bin/zipcloak matches
+Binary file /usr/bin/xgettext matches
+Binary file /usr/bin/xetex matches
+Binary file /usr/bin/x86_64-linux-gnu-strip matches
+Binary file /usr/bin/x86_64-linux-gnu-readelf matches
+Binary file /usr/bin/x86_64-linux-gnu-objdump matches
+Binary file /usr/bin/x86_64-linux-gnu-objcopy matches
+Binary file /usr/bin/x86_64-linux-gnu-nm matches
+Binary file /usr/bin/x86_64-linux-gnu-ld.gold matches
+Binary file /usr/bin/x86_64-linux-gnu-ld.bfd matches
+Binary file /usr/bin/x86_64-linux-gnu-gcov-tool-7 matches
+Binary file /usr/bin/x86_64-linux-gnu-gcov-dump-7 matches
+Binary file /usr/bin/x86_64-linux-gnu-gcov-7 matches
+Binary file /usr/bin/x86_64-linux-gnu-gcc-ranlib-7 matches
+Binary file /usr/bin/x86_64-linux-gnu-gcc-nm-7 matches
+Binary file /usr/bin/x86_64-linux-gnu-gcc-ar-7 matches
+Binary file /usr/bin/x86_64-linux-gnu-gcc-7 matches
+Binary file /usr/bin/x86_64-linux-gnu-g++-7 matches
+Binary file /usr/bin/x86_64-linux-gnu-dwp matches
+Binary file /usr/bin/x86_64-linux-gnu-cpp-7 matches
+Binary file /usr/bin/x86_64-linux-gnu-as matches
+Binary file /usr/bin/wget matches
+Binary file /usr/bin/vprerex matches
+Binary file /usr/bin/vim.tiny matches
+Binary file /usr/bin/unzip matches
+Binary file /usr/bin/unrar-nonfree matches
+Binary file /usr/bin/ubuntu-report matches
+Binary file /usr/bin/ttftotype42 matches
+Binary file /usr/bin/troff matches
+Binary file /usr/bin/texmaker matches
+Binary file /usr/bin/telegram-desktop matches
+Binary file /usr/bin/teckit_compile matches
+Binary file /usr/bin/tbl matches
+Binary file /usr/bin/t1testpage matches
+Binary file /usr/bin/t1reencode matches
+Binary file /usr/bin/t1rawafm matches
+Binary file /usr/bin/t1lint matches
+Binary file /usr/bin/t1dotlessj matches
+Binary file /usr/bin/soelim matches
+Binary file /usr/bin/snap matches
+Binary file /usr/bin/qpdfview matches
+Binary file /usr/bin/qpdf matches
+Binary file /usr/bin/preconv matches
+Binary file /usr/bin/ppdpo matches
+Binary file /usr/bin/ppdi matches
+Binary file /usr/bin/ppdhtml matches
+Binary file /usr/bin/ppdc matches
+Binary file /usr/bin/pic matches
+Binary file /usr/bin/perl matches
+Binary file /usr/bin/perl5.26.1 matches
+Binary file /usr/bin/pdftosrc matches
+Binary file /usr/bin/pdftex matches
+Binary file /usr/bin/otftotfm matches
+Binary file /usr/bin/otfinfo matches
+Binary file /usr/bin/openjade-1.4devel matches
+Binary file /usr/bin/mmpfb matches
+Binary file /usr/bin/mmafm matches
+Binary file /usr/bin/luatex matches
+Binary file /usr/bin/luajittex matches
+Binary file /usr/bin/lshw matches
+Binary file /usr/bin/grotty matches
+Binary file /usr/bin/grops matches
+Binary file /usr/bin/groff matches
+Binary file /usr/bin/gdbserver matches
+Binary file /usr/bin/gdb matches
+Binary file /usr/bin/eqn matches
+Binary file /usr/bin/dvisvgm matches
+Binary file /usr/bin/cfftot1 matches
+Binary file /usr/bin/asy matches
+Binary file /usr/bin/apt-sortpkgs matches
+Binary file /usr/bin/apt matches
+Binary file /usr/bin/apt-mark matches
+Binary file /usr/bin/apt-get matches
+Binary file /usr/bin/apt-ftparchive matches
+Binary file /usr/bin/apt-extracttemplates matches
+Binary file /usr/bin/apt-config matches
+Binary file /usr/bin/apt-cdrom matches
+Binary file /usr/bin/apt-cache matches

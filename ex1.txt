@@ -1,3 +1,6 @@
+/**Below is the list of entries in /usr/bin that contain “gcc” in
+reverse alphabetical order.**/
+
 /usr/bin/valgrind:# For gcc >= 3.4 versions
 /usr/bin/valgrind:# For gcc < 3.4 versions
 /usr/bin/latexmk:                        # (as with 'gcc -MP').
@@ -93,3 +96,5 @@ Binary file /usr/bin/apt-extracttemplates matches
 Binary file /usr/bin/apt-config matches
 Binary file /usr/bin/apt-cdrom matches
 Binary file /usr/bin/apt-cache matches
+
+/**End of file**/

@@ -1,3 +1,6 @@
+/**Below is the list of entries in /usr/bin that contain “gcc” in
+reverse alphabetical order.**/
+
 x86_64-linux-gnu-gcc-ranlib-7
 x86_64-linux-gnu-gcc-ranlib
 x86_64-linux-gnu-gcc-nm-7
@@ -16,3 +19,5 @@ gcc-7
 gcc
 c99-gcc
 c89-gcc
+
+/** End of file**/

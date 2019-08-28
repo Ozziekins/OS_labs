@@ -2,9 +2,11 @@
 
 int main(int argc, char const *argv[])
 {
+	/* declares the height variable n and receives the number from the command line */
 	int n;
 	sscanf(argv[1], "%d", &n);
 
+	/* prints out the triangle */
 	for (int i = 1; i <= n; ++i)
 	{
 		for (int j = 1; j <= n - i; ++j)

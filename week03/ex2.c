@@ -1,11 +1,13 @@
 #include <stdio.h>
 
+/* auxiliary function for the bubble sort */
 void swap(int *first, int *second){
 	int temp = *first;
 	*first = *second;
 	*second = temp;
 }
 
+/* my function bubble_sort() which accepts an array of integers and sorts it in place using Bubble sort algorithm */
 void bubble_sort(int arr[], int n){
 	for (int i = 0; i < n-1; ++i)
 	{

@@ -14,7 +14,7 @@ int partition(int arr[], int begin, int end){
 	int pivot = arr[end];
 	int i = begin-1;
 
-	for (int j = 0; j < end-1; ++j)
+	for (int j = begin; j <= end-1; ++j)
 	{
 		if (arr[j] < pivot)
 		{

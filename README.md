@@ -1,2 +1,2 @@
 # OS_labs
-The lab assignments for BS18-02
+The lab assignments of Ozioma Okonicha from BS18-02

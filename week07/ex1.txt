@@ -1,0 +1,2 @@
+   text	   data	    bss	    dec	    hex	filename
+   1752	    608	      8	   2368	    940	mem

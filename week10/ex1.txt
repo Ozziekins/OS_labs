@@ -1,0 +1,13 @@
+Command 1: ozzie_kins@ozziekins-X542UN:~/Documents/2nd year First Semester/Operating Systems/C part/10$ ls -i _ex1.txt > ex1.txt
+Output 1: 918396 _ex1.txt
+
+Command 2: ozzie_kins@ozziekins-X542UN:~/Documents/2nd year First Semester/Operating Systems/C part/10$ ls -i _ex1_1.txt >> ex1.txt
+Output 2: 918396 _ex1_1.txt
+
+Command 3: ozzie_kins@ozziekins-X542UN:~/Documents/2nd year First Semester/Operating Systems/C part/10$ ls -i _ex1_2.txt >> ex1.txt
+Output 3: 918396 _ex1_2.txt
+
+Full output:
+918396 _ex1.txt
+918396 _ex1_1.txt
+918396 _ex1_2.txt

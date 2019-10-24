@@ -1,0 +1,10 @@
+Command 1: ozzie_kins@ozziekins-X542UN:~/Documents/2nd year First Semester/Operating Systems/week10$ mkdir tmp
+
+Command 2: ozzie_kins@ozziekins-X542UN:~/Documents/2nd year First Semester/Operating Systems/week10$ cd tmp
+
+Command 3: ozzie_kins@ozziekins-X542UN:~/Documents/2nd year First Semester/Operating Systems/week10/tmp$ touch file1
+ozzie_kins@ozziekins-X542UN:~/Documents/2nd year First Semester/Operating Systems/week10/tmp$ touch file2
+
+Command 4: ozzie_kins@ozziekins-X542UN:~/Documents/2nd year First Semester/Operating Systems/week10/tmp$ ln file1 link1
+
+Command 5: 

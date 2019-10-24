@@ -1,0 +1,19 @@
+Command 1: ozzie_kins@ozziekins-X542UN:~/Documents/2nd year First Semester/Operating Systems/week10$ touch _ex3.txt
+
+Command 2: ozzie_kins@ozziekins-X542UN:~/Documents/2nd year First Semester/Operating Systems/week10$ chmod a-x _ex3.txt
+
+Command 3: ozzie_kins@ozziekins-X542UN:~/Documents/2nd year First Semester/Operating Systems/week10$ chmod uo=rwx _ex3.txt
+
+Command 4: ozzie_kins@ozziekins-X542UN:~/Documents/2nd year First Semester/Operating Systems/week10$ chmod g=u _ex3.txt
+
+Command 5: ozzie_kins@ozziekins-X542UN:~/Documents/2nd year First Semester/Operating Systems/week10$ ls -l _ex3.txt >> ex3.txt
+Output 5: -rwxrwxrwx 1 ozzie_kins ozzie_kins 0 Oct 24 20:26 _ex3.txt
+
+– What does 660 mean for ex3.txt?
+It means the file 'ex3.txt' will give read and write permissions to user and group.
+
+– What does 775 mean for ex3.txt?
+It means the file 'ex3.txt' will give read, write and execute permissions to user and group, while giving read and execute permissions to other.
+
+– What does 777 mean for ex3.txt?
+It means the file 'ex3.txt' will give read, write and execute permissions to user, group and other.

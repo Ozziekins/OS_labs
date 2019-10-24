@@ -1,0 +1,9 @@
+Command 1: ozzie_kins@ozziekins-X542UN:~/Documents/2nd year First Semester/Operating Systems/week01$ touch file.txt
+
+Command 2: ozzie_kins@ozziekins-X542UN:~/Documents/2nd year First Semester/Operating Systems/week10$ link ~/Documents/'2nd year First Semester'/'Operating Systems'/week01/file.txt _ex2.txt
+
+Command 3: ozzie_kins@ozziekins-X542UN:~/Documents/2nd year First Semester/Operating Systems/week10$ find ~/Documents/'2nd year First Semester'/'Operating Systems' -inum 27133250 > ex2.txt
+Output 3: /home/ozzie_kins/Documents/2nd year First Semester/Operating Systems/week10/_ex2.txt
+/home/ozzie_kins/Documents/2nd year First Semester/Operating Systems/week01/file.txt
+
+Command 4: ozzie_kins@ozziekins-X542UN:~/Documents/2nd year First Semester/Operating Systems/week10$ find ~/Documents/'2nd year First Semester'/'Operating Systems' -inum 27133250 -exec rm {} \;

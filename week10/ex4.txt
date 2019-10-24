@@ -7,4 +7,6 @@ ozzie_kins@ozziekins-X542UN:~/Documents/2nd year First Semester/Operating System
 
 Command 4: ozzie_kins@ozziekins-X542UN:~/Documents/2nd year First Semester/Operating Systems/week10/tmp$ ln file1 link1
 
-Command 5: 
+Output: For inode 198455 we have:
+1). file1
+2). link1 

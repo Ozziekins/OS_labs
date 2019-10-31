@@ -1,0 +1,7 @@
+Program 1 prints 'Hello' twice, both on separate lines.
+This is because 'Hello' is put in a buffer, process forks(), then the two processes print new line and then the both buffers are flushed.
+Hence, we see two 'Hello' each with their new lines.
+
+Program 2 prints 'Hello' once and 3 new lines.
+This is because 'Hello' is put in a buffer, but then flushed with the new line character. Then th eprocess forks() and the two processes print two new lines again.
+Hence we see 'Hello\n' plus two new lines.
